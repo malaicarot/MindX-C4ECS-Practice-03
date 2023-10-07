@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Program Files (x86)\\mingw32\\bin\\c++.exe",
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "random": "cpp",
+        "cmath": "cpp"
+    }
+}
